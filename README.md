@@ -43,8 +43,10 @@ I am a **Full-Stack Developer** specializing in building robust, scalable web ap
 
 ### 📬 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) <!-- Replace with your link -->
-- 📧 **Email:** your.email@example.com <!-- Replace with your email -->
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/saurabhkr001) <!-- Replace with your link -->
+- 📧 **Email:** saurabhskp1000@gmail.com <!-- Replace with your email -->
 
 ---
 <p align="center"><i>"Optimizing code, one query at a time."</i></p>
+
+<p align="center"><i>"A Step of failure is a Step towards success. "</i></p>
