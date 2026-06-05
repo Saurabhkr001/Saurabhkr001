@@ -7,8 +7,9 @@ I am a **Full-Stack Developer** specializing in building robust, scalable web ap
 ### 🚀 What I'm Up To
 - 🛠️ Building a bespoke digital gallery/portfolio platform using **Rails 8**.
 - 💳 Implementing secure e-commerce workflows using the **Solidus** framework and **Stripe Checkout**.
-- 🧠 Deep diving into AI architectures, specifically **Convolutional Neural Networks (CNN)** and **ResNet** for image analysis.
-
+- 🐍 Learning **Python** and **Django** to expand beyond Rails into a second powerful web framework.
+- 🤖 Exploring **Artificial Intelligence** — diving into ML concepts, models, and real-world applications.
+  
 ---
 
 ### 🛠️ Tech Stack & Tools
